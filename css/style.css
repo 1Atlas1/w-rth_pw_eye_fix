@@ -1,6 +1,8 @@
+/* hiding inbuild pw-eye for Edge Chromium */
 ::-ms-reveal {
     display: none !important;
 }
+/* Custom pw-eye margin for input field  */
 .container i {
 	margin-left: -30px;
 	cursor: pointer;
